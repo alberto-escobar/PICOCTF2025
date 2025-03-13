@@ -8,4 +8,6 @@ https://www.boxentriq.com/code-breaking/affine-cipher
 
 then I took the key, and decoded it using the same website.
 
-# part 2
+```
+picoCTF{ChEeSy8313f058}
+```

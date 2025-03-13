@@ -1,4 +1,4 @@
-this is SSTI, so we can first figure out if the site is vulnerable to SSTI by inputting 
+this is SSTI, so we can first figure out if the site is vulnerable to SSTI by inputting
 
 ```
 {{7*7}}
@@ -41,3 +41,7 @@ now we input:
 ```
 
 and we got the flag.
+
+```
+picoCTF{s4rv3r_s1d3_t3mp14t3_1nj3ct10n5_4r3_c001_753eca43}
+```

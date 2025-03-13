@@ -11,3 +11,7 @@ temp1.send("eval -99999999")
 ```
 
 here we are sending a fake message that says we made an amazing game winning move. Flag will be in the talk bubble with the fish.
+
+```
+picoCTF{c1i3nt_s1d3_w3b_s0ck3t5_1c70436a}
+```
