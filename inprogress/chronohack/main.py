@@ -26,7 +26,7 @@ import subprocess
 
 def main():
     host = "verbal-sleep.picoctf.net"
-    port = 50603
+    port = 57177
 
     
     # Launch netcat as a subprocess with pipes for stdin and stdout
