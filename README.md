@@ -86,3 +86,6 @@ picoCTF{block_3SRhViRbT1qcX_XUjM0r49cH_qCzmJZzBK_27c69efb}
 
 done\WebSockFish\writeup.md:
 picoCTF{c1i3nt_s1d3_w3b_s0ck3t5_1c70436a}
+
+done\handoff\writeup.md
+picoCTF{p1v0ted_ftw_1d547f9f}
