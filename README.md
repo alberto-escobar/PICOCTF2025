@@ -1,4 +1,4 @@
-31 results - 28 files
+Make sure to view this file RAW as markdown may inadvertenly format flags.
 
 done\3v@l\writeup.md:
 picoCTF{D0nt_Use_Unsecure_f@nctions3bc5aa53}
