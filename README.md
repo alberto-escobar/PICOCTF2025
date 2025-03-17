@@ -16,7 +16,7 @@ done\Bitlocker-1\writeup.md:
 `picoCTF{us3_b3tt3r_p4ssw0rd5_pl5!\_3242adb1}`
 
 done\Bitlocker-2\writeup.md:
-`picoCTF{B1tll0ck3r_dr1v3_d3crypt3d_9029ae5b}`
+`picoCTF{B1tl0ck3r_dr1v3_d3crypt3d_9029ae5b}`
 
 done\Cookie Monster Secret Recipe\writeup.md:
 `picoCTF{c00k1e_m0nster_l0ves_c00kies_DE7A5E76}`
