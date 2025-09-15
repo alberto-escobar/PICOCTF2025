@@ -14,13 +14,11 @@ def flag():
         content = picoCTF.read()
         print(content)
 
-
 def main():
     print("Welcome to the token generation challenge!")
     print("Can you guess the token?")
     token_length = 20  # the token length
     token = get_random(token_length) 
-
     try:
         n=0
         while n < 50:

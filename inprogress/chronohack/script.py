@@ -4,11 +4,11 @@ import string
 import socket
 
 HOST = "verbal-sleep.picoctf.net"
-PORT = 61728
+PORT = 56823
 
 def get_random(length, seed):
     alphabet = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
-    random.seed(seed)  # seeding with current time 
+    random.seed(seed-1000)  # seeding with current time 
     s = ""
     for i in range(length):
         s += random.choice(alphabet)
@@ -38,7 +38,7 @@ def connect_and_try_tokens(start_time):
         return 0
 
 def brute():
-    for i in range(-3000, 3000, 46):
+    for i in range(-1000, 1000, 46):
         print(i)
         if (connect_and_try_tokens(i) == 1):
             break
